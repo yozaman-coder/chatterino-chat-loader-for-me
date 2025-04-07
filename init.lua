@@ -1,1 +1,1 @@
-print("FeelsStrongMan")
+print("FeelsStrongMan!")
