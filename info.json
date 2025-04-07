@@ -1,0 +1,19 @@
+{
+    "name": "chatterino-chat-loader-for-me",
+    "description": "Loads the chat of the current viewed stream in brave. Made just for me :)",
+    "authors": [
+        "yozaman-coder"
+    ],
+    "homepage": "https://github.com/yozaman-coder/chatterino-chat-loader-for-me",
+    "tags": ["buh"],
+    "version": "1.0.0",
+    "license": "Apache2.0",
+    "permissions": [
+        {
+            "type": "FilesystemRead"
+        },
+        {
+            "type": "FilesystemWrite"
+        }
+    ]
+}
